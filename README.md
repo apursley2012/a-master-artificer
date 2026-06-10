@@ -1,5 +1,5 @@
 # a-master-artificer
-A developer portfolio styled as a meticulous inventor’s workshop, with astrolabe navigation, custom cursor details, and polished page framing for projects, writing, and professional experience.
+
 
 <!--
 File: README.md
@@ -12,7 +12,7 @@ Date: June 2026
 
 # A Master Artificer — Static Portfolio Theme
 
-**A workshop-inspired developer portfolio with astrolabe-like details, handcrafted interface elements, and a polished inventor’s-desk atmosphere.**
+**A developer portfolio styled as a meticulous inventor’s workshop, with astrolabe navigation, custom cursor details, and polished page framing for projects, writing, and professional experience.**
 
 [![A Master Artificer Theme Preview](images/screenshots/a-master-artificer-screenshot-1.png)](images/screenshots/a-master-artificer-screenshot-1.png)
 
@@ -105,11 +105,48 @@ The theme styling uses the following palette:
 
 Click any preview link or image to open the full-size file.
 
-- [Preview placeholder](images/screenshots/a-master-artificer-preview-placeholder.svg)
-
+<p align="center">
+  <img src="./images/screenshots/a-master-artificer-screenshot-1.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 1">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/a-master-artificer-screenshot-2.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 2">
+</p>
+<p align="center">
+  <img src="./images/screenshots/a-master-artificer-screenshot-3.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 3">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/a-master-artificer-screenshot-4.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 4">
+</p>
+<p align="center">
+  <img src="./images/screenshots/a-master-artificer-screenshot-5.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 5">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/a-master-artificer-screenshot-6.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 6">
+</p>
+<p align="center">
+  <img src="./images/screenshots/a-master-artificer-screenshot-7.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 7">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/a-master-artificer-screenshot-8.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 8">
+</p><p align="center">
+  <img src="./images/screenshots/a-master-artificer-screenshot-9.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 9">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/a-master-artificer-screenshot-10.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 10">
+</p>
+<p align="center">
+  <img src="./images/screenshots/a-master-artificer-screenshot-11.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 11">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/a-master-artificer-screenshot-12.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 12">
+</p><p align="center">
+  <img src="./images/screenshots/a-master-artificer-screenshot-13.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 13">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/a-master-artificer-screenshot-14.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 14">
+</p>
+<p align="center">
+  <img src="./images/screenshots/a-master-artificer-screenshot-15.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 15">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/a-master-artificer-screenshot-16.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 16">
+</p>
+  
 #### Screenshot Gallery
 
-[![A Master Artificer preview placeholder](images/screenshots/a-master-artificer-preview-placeholder.svg)](images/screenshots/a-master-artificer-preview-placeholder.svg)
+[![A Master Artificer Screenshot Gallery](./images/screenshots)](,/images/screenshots)
 
 ---
 
@@ -501,9 +538,9 @@ The project is intended for current versions of Chrome, Firefox, Safari, and Edg
 
 This theme is maintained as a standalone repository and linked from the main GitHub Pages Portfolio Themes collection.
 
-- Live GitHub Pages demo: `https://apursley2012.github.io/a-master-artificer-github-pages-theme/`
+- Live GitHub Pages demo: `https://apursley2012.github.io/a-master-artificer/`
 - Main collection repository: `https://github.com/apursley2012/github-pages-themes`
-- Visual theme gallery: `https://apursley2012.github.io/github-pages-themes/`
+- Main collection Visual theme gallery: `https://apursley2012.github.io/github-pages-themes/`
 
 The main collection repository acts as a directory. It links visitors to this theme's live demo, repository, and issue-request form.
 
@@ -523,5 +560,5 @@ The main collection repository acts as a directory. It links visitors to this th
 
 Copyright © 2026 Alysha Pursley. All rights reserved.
 
-This theme and its documentation are maintained by Alysha Pursley. Review the repository license and any project-specific usage terms before redistributing modified versions.
+This theme and its documentation are maintained by Alysha Pursley. 
 
