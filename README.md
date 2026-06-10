@@ -14,7 +14,7 @@ Date: June 2026
 
 **A workshop-inspired developer portfolio with astrolabe-like details, handcrafted interface elements, and a polished inventor’s-desk atmosphere.**
 
-![A Master Artificer theme preview](./a-master-artificer-screenshot-1.png)
+[![A Master Artificer Theme Preview](images/screenshots/a-master-artificer-screenshot-1.png)](images/screenshots/a-master-artificer-screenshot-1.png)
 
 [Open the live demo](https://apursley2012.github.io/a-master-artificer/) · [Browse the full theme collection](https://github.com/apursley2012/github-pages-themes) · [Report an issue or request an addition](https://github.com/apursley2012/a-master-artificer-github-pages-theme/issues/new/choose)
 
