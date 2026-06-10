@@ -1,6 +1,3 @@
-# a-master-artificer
-
-
 <!--
 File: README.md
 Document Title: A Master Artificer — Static Portfolio Theme
